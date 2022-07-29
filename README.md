@@ -4,12 +4,12 @@
 
 This folder contains analysis on employees from the 1980s and 1990s from the CSV files in the link below.
 
-Resources: [data](EmployeeSQL/data) \
+Resources: [data](EmployeeSQL/data)
 
 An entity relationship diagram has been created for the data, used to create a table schema for each of the CSV files.
 
-ERD: [erd](EmployeeSQL/EmployeeSQL ERD.png) \
-Table Schemata: [schemata](EmployeeSQL/employee_schema.sql) \
+ERD: [erd](EmployeeSQL/employee_ERD.png) \
+Table Schemata: [schemata](EmployeeSQL/employee_schema.sql) 
 
 The following analysis has been carried out on the SQL database:
 
@@ -29,7 +29,7 @@ The following analysis has been carried out on the SQL database:
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
-Queries: [queries](EmployeeSQL/employee_queries.sql) \
+Queries: [queries](EmployeeSQL/employee_queries.sql) 
 
 Additional analysis has been carried out utilising Jupyter Notebook:
 
